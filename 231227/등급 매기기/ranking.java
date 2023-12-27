@@ -12,13 +12,13 @@ public class Main {
             b="B";
         }
         else if(a>=70){
-            b="C"
+            b="C";
         }
         else if(a>=60){
-            b="D"
+            b="D";
         }
         else{
-            b="F"
+            b="F";
         }
 
         System.out.println(b);
