@@ -8,6 +8,6 @@ public class Main {
         if(a==1){System.out.println("John");}
         else if(a==2){System.out.println("Tom");}
         else if(a==3){System.out.println("Paul");}
-        else{System.out.println("Vacany");}
+        else{System.out.println("Vacancy");}
     }
 }
