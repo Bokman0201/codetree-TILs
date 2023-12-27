@@ -13,7 +13,7 @@ public class Main {
             System.out.println("Middle");
         }
         else{
-            System.out.println("Row");
+            System.out.println("Low");
         }
 
         
